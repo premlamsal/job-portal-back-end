@@ -3,13 +3,12 @@ Job Portal Application build with Laravel 8 (features only backend API)
 <p>Demo video : https://www.youtube.com/watch?v=s6VOOyUqNPk </p>
 
 <h4>Modules of application</h4>
-<p>This application has two parts.</p>
-<ul>
-<li>FrontEnd</li>
-<li>BackEnd</li>
-</ul>
-This laravel part also inculeds the admin part of the application build with VueJs. You can manages everthing from there.
 
+<p>This application has frontend part to consume api. </p>
+
+<a href="https://github.com/premlamsal/job-portal-front-end" >FrontEnd</a>
+
+This laravel part also inculeds the admin part of the application build with VueJs. You can manages everthing from there.
 #process to run application (manually)
 
 1. Make a database and place a name to .env file (if not create one from .env.example)
