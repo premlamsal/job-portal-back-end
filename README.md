@@ -1,6 +1,6 @@
-Jobmalai build with Laravel 8 (features only backend)
+Job Portal Application build with Laravel 8 (features only backend API)
 
-<h4>Modules of application<h4>
+<h4>Modules of application</h4>
 <p>This application has two parts.</p>
 <ul>
 <li>FrontEnd</li>
@@ -14,4 +14,5 @@ This laravel part also inculeds the admin part of the application build with Vue
 2. Make some tweaks for the database connection to the env file
 3. Migrate the database
 4. Seed the seeder to load dummy data to the database to run app quickly
-5. Ready to go (hit api and enjoy).
+5. Create Passport Token
+6. Ready to go (hit api and enjoy).
